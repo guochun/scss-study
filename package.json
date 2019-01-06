@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/guochun/scss-study/issues"
   },
-  "homepage": "https://github.com/guochun/scss-study#readme"
+  "homepage": "https://github.com/guochun/scss-study#readme",
+  "devDependencies": {
+    "parcel": "^1.11.0",
+    "sass": "^1.15.3"
+  }
 }

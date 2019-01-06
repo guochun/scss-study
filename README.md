@@ -26,3 +26,15 @@ npm install -D parcel
 npx parcel $filename
 
 parcel会自动加载scss所需的构建文件
+
+## 环境配置 - webpack
+
+1: 安装webpack
+npm install webpack webpack-cli --save-dev
+
+2: 安装webpack-dev-server
+npm install webpack-dev-server --save-dev
+
+3: 配置webpack.config.js 文件
+
+4：npx webpack-dev-server

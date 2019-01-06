@@ -18,6 +18,9 @@
   "homepage": "https://github.com/guochun/scss-study#readme",
   "devDependencies": {
     "parcel": "^1.11.0",
-    "sass": "^1.15.3"
+    "sass": "^1.15.3",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.2.0",
+    "webpack-dev-server": "^3.1.14"
   }
 }

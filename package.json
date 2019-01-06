@@ -1,0 +1,19 @@
+{
+  "name": "scss-study",
+  "version": "1.0.0",
+  "description": "Sass(英文全称: Syntactically Awesome Stylesheets) \r 是由一个最初Hampton Catlin设计并由Natelie Weizenbaumka开发的类css语言。  \r 发行时间: 2007年\r 稳定版本: 2016年3月28日",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guochun/scss-study.git"
+  },
+  "author": "purcy <purcyguo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guochun/scss-study/issues"
+  },
+  "homepage": "https://github.com/guochun/scss-study#readme"
+}

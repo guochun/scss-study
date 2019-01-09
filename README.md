@@ -38,3 +38,5 @@ npm install webpack-dev-server --save-dev
 3: 配置webpack.config.js 文件
 
 4：npx webpack-dev-server
+
+5: 安装 node-sass  css-loader  sass-loader

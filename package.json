@@ -4,7 +4,8 @@
   "description": "Sass(英文全称: Syntactically Awesome Stylesheets) \r 是由一个最初Hampton Catlin设计并由Natelie Weizenbaumka开发的类css语言。  \r 发行时间: 2007年\r 稳定版本: 2016年3月28日",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
@@ -17,10 +18,15 @@
   },
   "homepage": "https://github.com/guochun/scss-study#readme",
   "devDependencies": {
+    "css-loader": "^2.1.0",
+    "node-sass": "^4.11.0",
     "parcel": "^1.11.0",
     "sass": "^1.15.3",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
     "webpack": "^4.28.3",
     "webpack-cli": "^3.2.0",
     "webpack-dev-server": "^3.1.14"
-  }
+  },
+  "dependencies": {}
 }

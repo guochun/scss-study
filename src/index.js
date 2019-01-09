@@ -1,1 +1,1 @@
-console.log('abcdefg')
+import './scss/main.scss'
